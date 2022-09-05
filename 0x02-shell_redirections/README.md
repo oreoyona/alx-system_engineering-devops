@@ -1,0 +1,1 @@
+This directory contains basic scripts to exercise on I/O operations in Shell
