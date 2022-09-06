@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/passwd | cd ../
+sort | less /etc/passwd | cd ..
