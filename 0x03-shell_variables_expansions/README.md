@@ -1,0 +1,1 @@
+This folder contains some basic commands to create via a shell script variables and aliases
